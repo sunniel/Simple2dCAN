@@ -1,0 +1,51 @@
+[RunModeProfiles]
+run-playback-speed=100
+run-min-playback-speed=0.01
+run-max-playback-speed=100
+run-min-animation-speed=nan
+run-max-animation-speed=nan
+fast-playback-speed=1000
+fast-min-playback-speed=1
+fast-max-playback-speed=1e+6
+fast-min-animation-speed=nan
+fast-max-animation-speed=nan
+
+[Inspector-0]
+object=Overlay.contentDistributor.coordinate
+classname=std::string
+id=@Variant(\0\0\0\x81\xff\xff\xff\xff\xff\xff\xff\xff)
+type=1
+geom=@Rect(663 419 400 300)
+fullscreen=false
+
+[Inspector-1]
+object=Overlay.contentDistributor.value
+classname=std::string
+id=@Variant(\0\0\0\x81\xff\xff\xff\xff\xff\xff\xff\xff)
+type=1
+geom=@Rect(1088 421 400 300)
+fullscreen=false
+
+[Inspector-2]
+object=Overlay.globalObserver.globalNodeList.canProfiles
+classname="std::map<unsigned long,CANProfile>"
+id=@Variant(\0\0\0\x81\xff\xff\xff\xff\xff\xff\xff\xff)
+type=1
+geom=@Rect(2580 197 521 593)
+fullscreen=false
+
+[Inspector-3]
+object=Overlay.globalObserver.globalNodeList.cans
+classname="std::map<unsigned long,IPvXAddress>"
+id=@Variant(\0\0\0\x81\xff\xff\xff\xff\xff\xff\xff\xff)
+type=1
+geom=@Rect(198 99 517 564)
+fullscreen=false
+
+[Inspector-4]
+object=Overlay.globalObserver.globalNodeList.zoneInCharges
+classname=std::set<CANProfile>
+id=@Variant(\0\0\0\x81\xff\xff\xff\xff\xff\xff\xff\xff)
+type=1
+geom=@Rect(227 252 611 588)
+fullscreen=false

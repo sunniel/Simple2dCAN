@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/org.omnetpp.cdt.gnu.config.debug.1519729537/PATH/delimiter=;
+environment/project/org.omnetpp.cdt.gnu.config.debug.1519729537/PATH/operation=replace
+environment/project/org.omnetpp.cdt.gnu.config.debug.1519729537/PATH/value=C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\bin;C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\tools\\win64\\mingw64\\bin;C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\tools\\win64\\usr\\bin;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/bin/server;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/bin;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Python27\\;C\:\\Python27\\Scripts;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;
+environment/project/org.omnetpp.cdt.gnu.config.debug.1519729537/append=true
+environment/project/org.omnetpp.cdt.gnu.config.debug.1519729537/appendContributed=true
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/LC_ALL/delimiter=;
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/LC_ALL/operation=append
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/LC_ALL/value=en_US.UTF-8
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/PATH/delimiter=;
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/PATH/operation=replace
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/PATH/value=C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\bin;C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\tools\\win64\\mingw64\\bin;C\:\\Workspaces\\OMNeT++\\omnetpp-5.4\\tools\\win64\\usr\\bin;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/bin/server;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/bin;C\:/Workspaces/OMNeT++/omnetpp-5.4/ide/jre/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Python27\\;C\:\\Python27\\Scripts;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Windows\\system32;C\:\\Windows;
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/append=true
+environment/project/org.omnetpp.cdt.gnu.config.release.1195137267/appendContributed=true
